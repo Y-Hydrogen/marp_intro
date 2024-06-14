@@ -21,6 +21,7 @@ https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
 4. このリポジトリに格納したcssファイルを設定。(準備中)(代替手段として、参考cssファイルを紹介。https://github.com/eyemono-moe/marp-eyemono-theme/blob/main/theme.css)  
 画面左下の歯車マークから Settingsを開く。
 検索窓に、"markdown.marp.themes" と入力。
+cssファイルの相対パスを入力。
 
 ## 使用方法
 新規mdファイルを作成し、ファイルの冒頭に以下を挿入。
